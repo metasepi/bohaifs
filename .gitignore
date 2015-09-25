@@ -1,6 +1,8 @@
 *.ko
 *.mod.c
 *.o
+*.tmp
+*_dats.c
 .*.cmd
 .tmp_versions/
 Module.symvers
